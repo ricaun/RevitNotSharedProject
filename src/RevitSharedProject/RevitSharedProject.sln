@@ -1,0 +1,137 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ExtensibleStorageManagerShared", "ExtensibleStorageManagerShared\ExtensibleStorageManagerShared.shproj", "{6D8B6D0B-0FCF-4EB0-B57D-B1EB57393604}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2020", "2020", "{FE69D879-49BB-41F9-B8DE-CFE76A4238B6}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SchemaWrapperToolsShared", "SchemaWrapperToolsShared\SchemaWrapperToolsShared.shproj", "{0D22A5DD-8730-4E12-B18C-F915DBC705A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2021", "2021", "{91333105-EE83-4868-8E55-BF2701951D9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2022", "2022", "{BB46BAA4-E112-4582-8C5D-E0C73FE88971}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2023", "2023", "{9A1D6CF2-921B-4F2D-B8B5-5760F6871C91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2024", "2024", "{D3DD704D-BC7A-4E15-AFED-18EE17709655}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2025", "2025", "{DA50862E-1E7B-4CDD-AA6C-615B233C3727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchemaWrapperTools", "2020\SchemaWrapperTools\SchemaWrapperTools.csproj", "{99CEA13D-F1C5-416B-905D-BAE314689396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensibleStorageManager", "2020\ExtensibleStorageManager\ExtensibleStorageManager.csproj", "{9A3F83DE-999E-436F-9436-DC882BD75320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchemaWrapperTools", "2021\SchemaWrapperTools\SchemaWrapperTools.csproj", "{D250BE94-F248-4D57-A8E1-020B9A5FDD07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchemaWrapperTools", "2022\SchemaWrapperTools\SchemaWrapperTools.csproj", "{5A5DB3BC-47BF-49E2-89C9-18FEEBAAE6B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensibleStorageManager", "2021\ExtensibleStorageManager\ExtensibleStorageManager.csproj", "{161361A0-4818-4ED2-971E-8FDEBE05FD75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensibleStorageManager", "2022\ExtensibleStorageManager\ExtensibleStorageManager.csproj", "{A9400504-F745-4ADD-B849-83401AA3D928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchemaWrapperTools", "2023\SchemaWrapperTools\SchemaWrapperTools.csproj", "{875E7A61-A5F2-4229-80A6-E2753130FAD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchemaWrapperTools", "2024\SchemaWrapperTools\SchemaWrapperTools.csproj", "{C04F9690-E580-4EF7-9A4B-B871D331C738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchemaWrapperTools", "2025\SchemaWrapperTools\SchemaWrapperTools.csproj", "{61879BCB-51F1-4DE7-A2BA-062B19599BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensibleStorageManager", "2023\ExtensibleStorageManager\ExtensibleStorageManager.csproj", "{67D934E6-FEBB-474B-9FE6-707C1C6D3329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensibleStorageManager", "2024\ExtensibleStorageManager\ExtensibleStorageManager.csproj", "{3835D6CC-5BB6-4192-BAA2-BB1E8A17C055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensibleStorageManager", "2025\ExtensibleStorageManager\ExtensibleStorageManager.csproj", "{599E1C34-2043-4F43-84C3-F2EBC0A77787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99CEA13D-F1C5-416B-905D-BAE314689396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CEA13D-F1C5-416B-905D-BAE314689396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CEA13D-F1C5-416B-905D-BAE314689396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CEA13D-F1C5-416B-905D-BAE314689396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A3F83DE-999E-436F-9436-DC882BD75320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3F83DE-999E-436F-9436-DC882BD75320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3F83DE-999E-436F-9436-DC882BD75320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3F83DE-999E-436F-9436-DC882BD75320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D250BE94-F248-4D57-A8E1-020B9A5FDD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D250BE94-F248-4D57-A8E1-020B9A5FDD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D250BE94-F248-4D57-A8E1-020B9A5FDD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D250BE94-F248-4D57-A8E1-020B9A5FDD07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A5DB3BC-47BF-49E2-89C9-18FEEBAAE6B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5DB3BC-47BF-49E2-89C9-18FEEBAAE6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5DB3BC-47BF-49E2-89C9-18FEEBAAE6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5DB3BC-47BF-49E2-89C9-18FEEBAAE6B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161361A0-4818-4ED2-971E-8FDEBE05FD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161361A0-4818-4ED2-971E-8FDEBE05FD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161361A0-4818-4ED2-971E-8FDEBE05FD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161361A0-4818-4ED2-971E-8FDEBE05FD75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9400504-F745-4ADD-B849-83401AA3D928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9400504-F745-4ADD-B849-83401AA3D928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9400504-F745-4ADD-B849-83401AA3D928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9400504-F745-4ADD-B849-83401AA3D928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875E7A61-A5F2-4229-80A6-E2753130FAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875E7A61-A5F2-4229-80A6-E2753130FAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875E7A61-A5F2-4229-80A6-E2753130FAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875E7A61-A5F2-4229-80A6-E2753130FAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C04F9690-E580-4EF7-9A4B-B871D331C738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04F9690-E580-4EF7-9A4B-B871D331C738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04F9690-E580-4EF7-9A4B-B871D331C738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04F9690-E580-4EF7-9A4B-B871D331C738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61879BCB-51F1-4DE7-A2BA-062B19599BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61879BCB-51F1-4DE7-A2BA-062B19599BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61879BCB-51F1-4DE7-A2BA-062B19599BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61879BCB-51F1-4DE7-A2BA-062B19599BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67D934E6-FEBB-474B-9FE6-707C1C6D3329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D934E6-FEBB-474B-9FE6-707C1C6D3329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D934E6-FEBB-474B-9FE6-707C1C6D3329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D934E6-FEBB-474B-9FE6-707C1C6D3329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3835D6CC-5BB6-4192-BAA2-BB1E8A17C055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3835D6CC-5BB6-4192-BAA2-BB1E8A17C055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3835D6CC-5BB6-4192-BAA2-BB1E8A17C055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3835D6CC-5BB6-4192-BAA2-BB1E8A17C055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599E1C34-2043-4F43-84C3-F2EBC0A77787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599E1C34-2043-4F43-84C3-F2EBC0A77787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599E1C34-2043-4F43-84C3-F2EBC0A77787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599E1C34-2043-4F43-84C3-F2EBC0A77787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{99CEA13D-F1C5-416B-905D-BAE314689396} = {FE69D879-49BB-41F9-B8DE-CFE76A4238B6}
+		{9A3F83DE-999E-436F-9436-DC882BD75320} = {FE69D879-49BB-41F9-B8DE-CFE76A4238B6}
+		{D250BE94-F248-4D57-A8E1-020B9A5FDD07} = {91333105-EE83-4868-8E55-BF2701951D9A}
+		{5A5DB3BC-47BF-49E2-89C9-18FEEBAAE6B0} = {BB46BAA4-E112-4582-8C5D-E0C73FE88971}
+		{161361A0-4818-4ED2-971E-8FDEBE05FD75} = {91333105-EE83-4868-8E55-BF2701951D9A}
+		{A9400504-F745-4ADD-B849-83401AA3D928} = {BB46BAA4-E112-4582-8C5D-E0C73FE88971}
+		{875E7A61-A5F2-4229-80A6-E2753130FAD8} = {9A1D6CF2-921B-4F2D-B8B5-5760F6871C91}
+		{C04F9690-E580-4EF7-9A4B-B871D331C738} = {D3DD704D-BC7A-4E15-AFED-18EE17709655}
+		{61879BCB-51F1-4DE7-A2BA-062B19599BA5} = {DA50862E-1E7B-4CDD-AA6C-615B233C3727}
+		{67D934E6-FEBB-474B-9FE6-707C1C6D3329} = {9A1D6CF2-921B-4F2D-B8B5-5760F6871C91}
+		{3835D6CC-5BB6-4192-BAA2-BB1E8A17C055} = {D3DD704D-BC7A-4E15-AFED-18EE17709655}
+		{599E1C34-2043-4F43-84C3-F2EBC0A77787} = {DA50862E-1E7B-4CDD-AA6C-615B233C3727}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {420059DF-3466-40E7-82E3-4AC13592321A}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		SchemaWrapperToolsShared\SchemaWrapperToolsShared.projitems*{0d22a5dd-8730-4e12-b18c-f915dbc705a5}*SharedItemsImports = 13
+		ExtensibleStorageManagerShared\ExtensibleStorageManagerShared.projitems*{161361a0-4818-4ed2-971e-8fdebe05fd75}*SharedItemsImports = 4
+		ExtensibleStorageManagerShared\ExtensibleStorageManagerShared.projitems*{3835d6cc-5bb6-4192-baa2-bb1e8a17c055}*SharedItemsImports = 4
+		ExtensibleStorageManagerShared\ExtensibleStorageManagerShared.projitems*{599e1c34-2043-4f43-84c3-f2ebc0a77787}*SharedItemsImports = 5
+		SchemaWrapperToolsShared\SchemaWrapperToolsShared.projitems*{5a5db3bc-47bf-49e2-89c9-18feebaae6b0}*SharedItemsImports = 4
+		SchemaWrapperToolsShared\SchemaWrapperToolsShared.projitems*{61879bcb-51f1-4de7-a2ba-062b19599ba5}*SharedItemsImports = 5
+		ExtensibleStorageManagerShared\ExtensibleStorageManagerShared.projitems*{67d934e6-febb-474b-9fe6-707c1c6d3329}*SharedItemsImports = 4
+		ExtensibleStorageManagerShared\ExtensibleStorageManagerShared.projitems*{6d8b6d0b-0fcf-4eb0-b57d-b1eb57393604}*SharedItemsImports = 13
+		SchemaWrapperToolsShared\SchemaWrapperToolsShared.projitems*{875e7a61-a5f2-4229-80a6-e2753130fad8}*SharedItemsImports = 4
+		SchemaWrapperToolsShared\SchemaWrapperToolsShared.projitems*{99cea13d-f1c5-416b-905d-bae314689396}*SharedItemsImports = 4
+		ExtensibleStorageManagerShared\ExtensibleStorageManagerShared.projitems*{9a3f83de-999e-436f-9436-dc882bd75320}*SharedItemsImports = 4
+		ExtensibleStorageManagerShared\ExtensibleStorageManagerShared.projitems*{a9400504-f745-4add-b849-83401aa3d928}*SharedItemsImports = 4
+		SchemaWrapperToolsShared\SchemaWrapperToolsShared.projitems*{c04f9690-e580-4ef7-9a4b-b871d331c738}*SharedItemsImports = 4
+		SchemaWrapperToolsShared\SchemaWrapperToolsShared.projitems*{d250be94-f248-4d57-a8e1-020b9a5fdd07}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal
