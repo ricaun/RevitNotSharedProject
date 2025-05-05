@@ -2,6 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/711aa3f5-3448-4f09-9c58-b43e8d8f3d65)
 
+All I did was add conditional compilation symbols to seperate code changes between the years 
 ## Folder Structure
 - libs(Contains the RevitAPI.dll & RevitUIAPI.dll)
   - 2020
