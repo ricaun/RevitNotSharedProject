@@ -1,5 +1,7 @@
 # Example of a revit not shared project
 
+This project uses multiple configuration to compile the same code for different Revit versions.
+
 ![image](https://github.com/user-attachments/assets/2fd422dc-5193-43d3-9372-ddef712e827a)
 ## Code Structure
 All I did was take 2020 project and add **conditional compilation symbols** to seperate code changes between the years 
